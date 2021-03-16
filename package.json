@@ -1,0 +1,7 @@
+{
+  "name": "First-project-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel Ferrari <gabrieljuniorferrari88@gmail.com>",
+  "license": "MIT"
+}
